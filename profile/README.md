@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Defenestra" src="profile/logo.svg" width="320">
+  <img alt="Defenestra" src="logo.svg" width="320">
 </p>
 
 # Defenestra, LLC
