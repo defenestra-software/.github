@@ -46,6 +46,4 @@ your terms - not in the middle of your workday.
 
 ---
 
-*Windows is a registered trademark of Microsoft Corporation. macOS is a
-registered trademark of Apple Inc. Linux is a registered trademark of
-Linus Torvalds. ClamAV is a registered trademark of Cisco Systems, Inc.*
+*All trademarks referenced are the property of their respective owners. Defenestra LLC is independently operated and not affiliated with or endorsed by any trademark holder.*
